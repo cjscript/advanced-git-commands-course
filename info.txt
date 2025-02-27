@@ -11,3 +11,5 @@ Commit #5 - squash exercise
 Commit #6 - squash exercise
 
 Commit #7 - squash exercise
+
+Commit #8 - squash exercise
