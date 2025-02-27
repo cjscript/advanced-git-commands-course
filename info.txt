@@ -1,1 +1,3 @@
 GitAmendDemo branch - Commit #1
+
+Commit #2 - squash exercise
