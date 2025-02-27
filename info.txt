@@ -20,6 +20,10 @@ Commit #10 - squash exercise
 
 Commit #11 - squash exercise
 
+<<<<<<< HEAD
 Commit #12 - squash exercise
 
 Commit #13 - squash exercise
+=======
+Commit #12 - squash exercise
+>>>>>>> master
