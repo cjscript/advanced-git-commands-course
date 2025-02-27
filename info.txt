@@ -5,3 +5,11 @@ Commit #2 - squash exercise
 Commit #3 - squash exercise
 
 Commit #4 - squash exercise
+
+Commit #5 - squash exercise
+
+Commit #6 - squash exercise
+
+Commit #7 - squash exercise
+
+Commit #8 - squash exercise
