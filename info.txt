@@ -25,3 +25,7 @@ Commit #12 - squash exercise
 Commit #13 - squash exercise
 
 Fixed bug
+
+Commit #14 - started rebase dev 2 commit 1
+
+Commit #15 - started rebase dev 2 commit 2
