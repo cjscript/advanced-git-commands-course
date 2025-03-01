@@ -29,3 +29,5 @@ Fixed bug
 Commit #14 - started rebase dev 2 commit 1
 
 Commit #15 - started rebase dev 2 commit 2
+
+Commit #15 - from dev 2 bug fix commit 1
